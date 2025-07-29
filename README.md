@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Currently focused on: Enhancing automation through Python and mastering advanced data structures.<br><br>🤝🏻 Open to collaborating on: Innovative open-source projects, particularly in machine learning and scalable web solutions.<br><br>🧩 Seeking guidance for: Expert-level React patterns and cloud infrastructure best practices.<br><br>🌱 Learning journey: Exploring TypeScript, containerization with Docker, and deepening cloud expertise on AWS.<br><br>💬 Let’s connect about: Python development, efficient version control with Git, or contributing to open source.
+🎯 Currently focused on: Enhancing automation through Python and mastering advanced data structures.<br><br>🤝🏻 Open to collaborating on: Innovative open-source projects, particularly in machine learning and scalable web solutions.<br><br>🧩 Seeking guidance for: Expert-level React patterns and cloud infrastructure best practices.<br><br>🌱 Learning journey: Exploring GenAI, containerization with Docker, and deepening cloud expertise on AWS.<br><br>💬 Let’s connect about: Python development, efficient version control with Git, or contributing to open source.
 
 
 ## 🌐 Socials:
